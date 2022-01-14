@@ -1,0 +1,17 @@
+{
+  "name": "online_code_compiler_backend",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "private": true,
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "author": "Yughendaran <yughendaranp@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
